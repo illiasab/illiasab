@@ -4,5 +4,5 @@
   <img src="https://profile-counter.glitch.me/{illiasab}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/{illiasab}/{illiasab}/blob/main/dev.png" alt="Preview of dev.pdf">
+<img src="https://github.com/{illiasab}/{illiasab}/blob/main/dev.png" alt="Preview of dev.png">
 
